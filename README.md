@@ -109,7 +109,7 @@
 <br>
         
 ## Feedback
-Your valuable feedback is really appreciated. You can reach out to me via below platforms and share your feedbacks with me.
+Your valuable feedback is really appreciated. You can reach out to me via below platforms and share your feedback.
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abdulrashid.github.io/)
 
